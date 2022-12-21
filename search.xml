@@ -4,26 +4,125 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2022/12/21/Hello%20World/"/>
-      <url>/2022/12/21/Hello%20World/</url>
+      <title>GTA5画面设置心得</title>
+      <link href="/2022/12/21/GTA5%E7%94%BB%E9%9D%A2%E8%AE%BE%E7%BD%AE%E5%BF%83%E5%BE%97/"/>
+      <url>/2022/12/21/GTA5%E7%94%BB%E9%9D%A2%E8%AE%BE%E7%BD%AE%E5%BF%83%E5%BE%97/</url>
       
-        <content type="html"><![CDATA[<h2 id="快上课了宝们"><a href="#快上课了宝们" class="headerlink" title="快上课了宝们"></a>快上课了宝们</h2>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> 游戏 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> gta5 </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>开博大吉</title>
-      <link href="/2022/10/28/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2022/10/28/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <title>初始HTML</title>
+      <link href="/2022/12/21/%E5%88%9D%E5%A7%8BHTML/"/>
+      <url>/2022/12/21/%E5%88%9D%E5%A7%8BHTML/</url>
       
-        <content type="html"><![CDATA[<h2 id="我的第一篇博客哦！"><a href="#我的第一篇博客哦！" class="headerlink" title="我的第一篇博客哦！"></a>我的第一篇博客哦！</h2>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> 开发 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HTML </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>初始C++</title>
+      <link href="/2022/12/21/%E5%88%9D%E5%A7%8BC++/"/>
+      <url>/2022/12/21/%E5%88%9D%E5%A7%8BC++/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 开发 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>初始Java</title>
+      <link href="/2022/12/21/%E5%88%9D%E5%A7%8BJava/"/>
+      <url>/2022/12/21/%E5%88%9D%E5%A7%8BJava/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 开发 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>初始JS</title>
+      <link href="/2022/12/21/%E5%88%9D%E5%A7%8BJS/"/>
+      <url>/2022/12/21/%E5%88%9D%E5%A7%8BJS/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 开发 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> js </tag>
+            
+        </tags>
       
     </entry>
     
